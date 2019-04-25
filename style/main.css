@@ -331,12 +331,12 @@ hr {
   .tile.tile-2 .tile-inner {
     background: url("https://i.pinimg.com/originals/a3/7c/49/a37c496ee55d0764b4e18c9ce4003464.jpg");
     background-size: cover；
-    color: rgb(0,0,0,0);
+    color: rgb(0,0,0,0)；
      }
   .tile.tile-4 .tile-inner {
     background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn2QF0rH9-VU73WDxDa2x-UbHyN1YCdBapSQOGui7AbTMfDfxn");
     background-size: cover；
-    color: rgb(0,0,0,0);
+    color: rgb(0,0,0,0)；
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner {
     background: url("https://imgix.ranker.com/user_node_img/92/1837190/original/princess-jasmine-photo-u25?w=650&q=50&fm=pjpg&fit=crop&crop=faces")；
