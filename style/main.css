@@ -329,7 +329,9 @@ hr {
     z-index: 10;
     font-size: 55px; }
   .tile.tile-2 .tile-inner {
-    background: #eee4da;
+    background: url("https://i.pinimg.com/originals/a3/7c/49/a37c496ee55d0764b4e18c9ce4003464.jpg");
+    background-size:cover；
+    color:rgb(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
     background: #ede0c8;
