@@ -329,65 +329,68 @@ hr {
     z-index: 10;
     font-size: 55px; }
   .tile.tile-2 .tile-inner {
-    background: url("https://i.pinimg.com/originals/a3/7c/49/a37c496ee55d0764b4e18c9ce4003464.jpg");
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBOZeYjeGh5ZQUp7PGUXXBuX2bitANHYMRfYLsSJDP3G5wdXZE");
     background-size: cover;
     color: rgb(0,0,0,0);
      }
   .tile.tile-4 .tile-inner {
-    background: url("https://imgix.ranker.com/user_node_img/92/1837190/original/princess-jasmine-photo-u25?w=650&q=50&fm=pjpg&fit=crop&crop=faces");
+    background: url("https://img5.cna.com.tw/www/WebPhotos/1024/20180322/24783721.jpg");
     background-size: cover;
     color: rgb(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner {
-    background: url("https://imgix.ranker.com/user_node_img/92/1837190/original/princess-jasmine-photo-u25?w=650&q=50&fm=pjpg&fit=crop&crop=faces");
+    background: url("https://scontent-lax3-1.cdninstagram.com/vp/ea5c488b65e7deac33ffff74f0b5b74b/5CFCB4C2/t51.2885-15/e35/c34.0.1012.1012/s480x480/37897500_237169466916609_4514377083295629312_n.jpg?_nc_ht=scontent-lax3-1.cdninstagram.com");
     background-size:cover;
     color:rgb(0,0,0,0);
      }
   .tile.tile-16 .tile-inner {
-    background:url("https://s3-imgs.niusnews.com/104256_5.jpg");
-background-size:cover;
-color:rgb(0,0,0,0);}
+   background: url("https://attach.setn.com/newsimages/2018/05/08/1350490-XXL.jpg");
+   background-size: cover;
+   color: rgb(0,0,0,0);}
   .tile.tile-32 .tile-inner {
-    color: #f9f6f2;
-    background: #f67c5f; }
+    background:url("https://img5.cna.com.tw/www/WebPhotos/1024/20180322/24783721.jpg");
+background-size:cover;
+color:rgb(0,0,0,0); }
   .tile.tile-64 .tile-inner {
-    color: #f9f6f2;
-    background: #f65e3b; }
+    background: url("https://www.viewfinder.com.tw/upload/lightbox_data/pl1_611033358_1516866142.jpg");
+    background-size: cover;
+    color: rgb(0,0,0,0); }
   .tile.tile-128 .tile-inner {
-    color: #f9f6f2;
-    background: #edcf72;
-    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
-    font-size: 45px; }
+    background: url("https://d32kak7w9u5ewj.cloudfront.net/media/image/2017/04/4be682f26a33485ab7e79d91d02f6a85.jpg?imageView2/1/w/1080/h/720/format/jpg");
+    background-size: cover;
+    color: rgb(0,0,0,0); }
     @media screen and (max-width: 520px) {
       .tile.tile-128 .tile-inner {
         font-size: 25px; } }
   .tile.tile-256 .tile-inner {
-    color: #f9f6f2;
-    background: #edcc61;
-    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.31746), inset 0 0 0 1px rgba(255, 255, 255, 0.19048);
-    font-size: 45px; }
+    background: url("http://misanthropy-gauge.beamedia.co/img/dayblue.png");
+    background-size: cover;
+    color: rgb(0,0,0,0); }
     @media screen and (max-width: 520px) {
       .tile.tile-256 .tile-inner {
         font-size: 25px; } }
   .tile.tile-512 .tile-inner {
-    color: #f9f6f2;
-    background: #edc850;
+    background: url("http://misanthropy-gauge.beamedia.co/img/bottleneck.png");
+    background-size: cover;
+    color: rgb(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.39683), inset 0 0 0 1px rgba(255, 255, 255, 0.2381);
     font-size: 45px; }
     @media screen and (max-width: 520px) {
       .tile.tile-512 .tile-inner {
         font-size: 25px; } }
   .tile.tile-1024 .tile-inner {
-    color: #f9f6f2;
-    background: #edc53f;
+    background: url("https://images.plurk.com/1mzUFmVFMb8CLkogDBAs.jpg");
+    background-size: cover;
+    color: rgb(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.47619), inset 0 0 0 1px rgba(255, 255, 255, 0.28571);
     font-size: 35px; }
     @media screen and (max-width: 520px) {
       .tile.tile-1024 .tile-inner {
         font-size: 15px; } }
   .tile.tile-2048 .tile-inner {
-    color: #f9f6f2;
-    background: #edc22e;
+    background: url("http://misanthropy-gauge.beamedia.co/img/nointernet.png");
+    background-size: cover;
+    color: rgb(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
     font-size: 35px; }
     @media screen and (max-width: 520px) {
